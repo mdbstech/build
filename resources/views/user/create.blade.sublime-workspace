@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"im",
+				"importExport"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"pane",
+				"panel-heading"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"ticket",
+				"ticket_id"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"resum",
+				"resume_menu"
+			],
+			[
+				"resume",
+				"resume_menu_id"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"Re",
+				"ResumeItem"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pan",
+				"panel-body"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//MDBS-001/mdbs-server/html/service_bucket/app/Http/Controllers/TicketController.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/sftp-config.json",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/ticket/open.blade.php",
+		"//MDBS-001/mdbs-server/html/build/resources/views/reports/member_report_view.blade.php",
+		"//MDBS-001/mdbs-server/html/build/resources/views/reports/refund_report_view.blade.php",
+		"//MDBS-001/mdbs-server/html/build/routes/web.php",
+		"//MDBS-001/mdbs-server/html/build/app/Http/Controllers/HomeController.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/ticket/all.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/ticket/barcode.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/customer/create.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/ticket/preview.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/customer/display.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/ticket/create.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/DemoPrintFile/index.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/customer/edit.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/customer/view.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/layouts/app.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/ticket/report.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/product/create.blade.php",
+		"//MDBS-001/mdbs-server/html/build/resources/views/reports/payment_report_view.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/ticket/pending.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/ticket/view.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/app/Http/Controllers/HomeController.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/public/pdf/pdf.css",
+		"//MDBS-001/mdbs-server/html/service_bucket/routes/web.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/public/css/style.css",
+		"//MDBS-001/mdbs-server/html/service_bucket/config/dompdf.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/app/WebClientPrint/WebClientPrint.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/app/Http/Controllers/DemoPrintFileController.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/app/Http/Controllers/WebClientPrintController.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/vendor/milon/barcode/src/Milon/Barcode/PDF417.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/vendor/milon/barcode/src/Milon/Barcode/QRcode.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/home/index.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/DemoPrintCommands/index.blade.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/resources/views/home/samples.blade.php",
+		"//MDBS-001/mdbs-server/html/crm-print/resources/views/DemoPrintFile/index.blade.php",
+		"//MDBS-001/mdbs-server/html/crm-print/routes/web.php",
+		"//MDBS-001/mdbs-server/html/service_bucket/public/js/jquery.js",
+		"//MDBS-001/mdbs-server/html/service/service_bucket/.env",
+		"//MDBS-001/mdbs-server/html/cit/resources/views/elec.blade.php",
+		"//MDBS-001/mdbs-server/html/crm-print/public/css/app.css",
+		"//MDBS-001/local-server/service_bucket/resources/views/export/export.blade.php",
+		"//MDBS-001/local-server/service_bucket/resources/views/customer/display.blade.php",
+		"//MDBS-001/local-server/service_bucket/app/Http/Controllers/UserController.php",
+		"//MDBS-001/local-server/crm-print/app/Http/Controllers/HomeController.php",
+		"//MDBS-001/local-server/service_bucket/routes/web.php",
+		"//MDBS-001/local-server/service_bucket/resources/views/layouts/app.blade.php",
+		"//MDBS-001/local-server/service_bucket/app/Http/Controllers/ExportController.php",
+		"//MDBS-001/local-server/crm-print/public/files/patent2pages.tif",
+		"//MDBS-001/local-server/service_bucket/resources/views/ticket/view.blade.php",
+		"//MDBS-001/local-server/crm-print/resources/views/DemoPrintFile/index.blade.php",
+		"//MDBS-001/local-server/service_bucket/app/Http/Controllers/TicketController.php",
+		"//MDBS-001/local-server/cit/resources/views/civil.blade.php",
+		"//MDBS-001/local-server/crm-print/public/files/LoremIpsum.pdf",
+		"//MDBS-001/local-server/crm-print/public/files/SamplePngImage.png",
+		"//MDBS-001/local-server/crm-print/resources/views/home/samples.blade.php",
+		"//MDBS-001/local-server/service_bucket/app/Http/Controllers/DemoPrintFileController.php",
+		"//MDBS-001/local-server/service_bucket/resources/views/ticket/barcode.blade.php",
+		"//MDBS-001/local-server/crm-print/app/Http/Controllers/DemoPrintFileController.php",
+		"//MDBS-001/local-server/service_bucket/app/Http/Controllers/WebClientPrintController.php",
+		"//MDBS-001/local-server/crm-print/app/Http/Controllers/WebClientPrintController.php",
+		"//MDBS-001/local-server/cit/resources/views/csedept/home.blade.php",
+		"//MDBS-001/local-server/crm-print/resources/views/home/index.blade.php",
+		"//MDBS-001/local-server/crm-print/routes/web.php",
+		"//MDBS-001/local-server/crm-print/app/Http/Controllers/DemoPrintCommandsController.php",
+		"//MDBS-001/local-server/crm-print/resources/views/layouts/app.blade.php",
+		"//MDBS-001/local-server/crm-print/resources/views/home.blade.php",
+		"//MDBS-001/local-server/printtest/app/Http/Controllers/WebClientPrintController.php",
+		"//MDBS-001/local-server/printtest/app/WebClientPrint/WebClientPrint.php",
+		"//MDBS-001/local-server/printtest/app/Http/Kernel.php",
+		"//MDBS-001/local-server/printtest/composer.json",
+		"//MDBS-001/local-server/printtest/app/Http/Controllers/HomeController.php",
+		"//MDBS-001/local-server/wcppproject/app/Http/Kernel.php",
+		"//MDBS-001/local-server/printtest/app/Http/Controllers/DemoPrintCommandsController.php",
+		"//MDBS-001/local-server/printtest/app/Http/Controllers/DemoPrintFileController.php",
+		"//MDBS-001/local-server/printtest/app/Http/Controllers/Controller.php",
+		"//MDBS-001/local-server/printtest/public/web.config",
+		"//MDBS-001/local-server/wcppproject/public/css/app.css",
+		"//MDBS-001/local-server/printtest/routes/web.php",
+		"//MDBS-001/local-server/printtest/public/js/app.js",
+		"//MDBS-001/local-server/printtest/app/WebClientPrint/wcpcache/readme.txt",
+		"//MDBS-001/local-server/printtest/public/index.php",
+		"//MDBS-001/local-server/printtest/resources/views/layouts/app.blade.php",
+		"//MDBS-001/local-server/printtest/index.php",
+		"//MDBS-001/local-server/printtest/.env",
+		"//MDBS-001/local-server/printtest/.htaccess",
+		"//MDBS-001/local-server/cit/public/assets/css/custom.css",
+		"//MDBS-001/local-server/service_bucket/app/Http/Controllers/BarcodePrintFileController.php",
+		"//MDBS-001/local-server/wcppproject/routes/web.php",
+		"//MDBS-001/local-server/wcppproject/app/Http/Controllers/DemoPrintFileController.php",
+		"//MDBS-001/local-server/cit/resources/views/principal.blade.php",
+		"//MDBS-001/local-server/digitized_resume/resources/views/user_layouts/user_sidemenu.blade.php",
+		"//MDBS-001/local-server/digitized_resume/app/Http/Controllers/HomeController.php",
+		"//MDBS-001/local-server/digitized_resume/resources/views/user_layouts/user_home.blade.php",
+		"//MDBS-001/local-server/digitized_resume/resources/views/user_layouts/user_home_edit.blade.php",
+		"//MDBS-001/local-server/digitized_resume/resources/views/user_layouts/user_home_doc.blade.php",
+		"//MDBS-001/local-server/digitized_resume/app/Http/Controllers/DocumentController.php",
+		"//MDBS-001/local-server/wcppproject/app/Http/Controllers/Controller.php",
+		"//MDBS-001/local-server/wcppproject/app/Http/Controllers/HomeController.php",
+		"//MDBS-001/local-server/wcppproject/resources/views/DemoPrintCommands/index.blade.php",
+		"//MDBS-001/local-server/wcppproject/resources/views/DemoPrintFile/index.blade.php",
+		"//MDBS-001/local-server/cit/resources/views/home.blade.php",
+		"//MDBS-001/local-server/wcppproject/app/Http/Controllers/WebClientPrintController.php",
+		"//MDBS-001/local-server/cit/resources/views/humanity.blade.php",
+		"//MDBS-001/local-server/wcppproject/app/Http/Controllers/DemoPrintCommandsController.php",
+		"//MDBS-001/local-server/service_bucket/app/Http/Controllers/UploadController.php",
+		"//MDBS-001/local-server/service_bucket/app/Http/Controllers/HomeController.php",
+		"//MDBS-001/local-server/stock/resources/views/organization/create.blade.php",
+		"//MDBS-001/local-server/service_bucket/resources/views/ticket/edit.blade.php",
+		"//MDBS-001/local-server/reservation/resources/views/accounts/edit.blade.php",
+		"//MDBS-001/local-server/reservation/resources/views/accounts/create.blade.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "create.blade.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ticket",
+				"service_bucket\\app\\Http\\Controllers\\TicketController.php"
+			],
+			[
+				"web",
+				"build\\routes\\web.php"
+			],
+			[
+				"barcode",
+				"resources\\views\\ticket\\barcode.blade.php"
+			],
+			[
+				"tiketco",
+				"app\\Http\\Controllers\\TicketController.php"
+			],
+			[
+				"preview",
+				"resources\\views\\ticket\\preview.blade.php"
+			],
+			[
+				"report",
+				"resources\\views\\ticket\\report.blade.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"pdf",
+				"public\\pdf\\pdf.css"
+			],
+			[
+				"bar",
+				"service_bucket\\resources\\views\\ticket\\barcode.blade.php"
+			],
+			[
+				"view",
+				"service_bucket\\resources\\views\\customer\\view.blade.php"
+			],
+			[
+				"view.bl",
+				"service_bucket\\resources\\views\\customer\\view.blade.php"
+			],
+			[
+				"homecontrol",
+				"crm-print\\app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"demo",
+				"app\\Http\\Controllers\\DemoPrintFileController.php"
+			],
+			[
+				"webprin",
+				"app\\Http\\Controllers\\WebClientPrintController.php"
+			],
+			[
+				"home",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"document",
+				"app\\Http\\Controllers\\DocumentController.php"
+			],
+			[
+				"use",
+				"resources\\views\\user_layouts\\user_home_edit.blade.php"
+			],
+			[
+				"barcode.blade",
+				"service_bucket\\resources\\views\\ticket\\barcode.blade.php"
+			],
+			[
+				"ticketcontroller",
+				"service_bucket\\app\\Http\\Controllers\\TicketController.php"
+			],
+			[
+				"web.php",
+				"service_bucket\\routes\\web.php"
+			],
+			[
+				"ticketcontro",
+				"app\\Http\\Controllers\\TicketController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 796.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
